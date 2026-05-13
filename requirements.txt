@@ -1,1 +1,6 @@
-streamlit\npandas\nscikit-learn\nrequests\njoblib
+streamlit
+pandas
+scikit-learn
+requests
+joblib
+plotly
